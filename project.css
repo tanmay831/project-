@@ -1,0 +1,16 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+input,select,button{
+
+    color: 4px;;
+    padding: 10px;
+    margin: 5px;
+    border: 10px;
+}
+
+#result{
+    font-weight: bold;
+}
